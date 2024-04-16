@@ -1,0 +1,1 @@
+# Citirea până la numărul magic
